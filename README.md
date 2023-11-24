@@ -14,6 +14,7 @@ Projeto criado para termos uma tela de login e utilizaremos no 2° Ano do EM em 
 * HTML5
 * CSS3
 * Live Server (A extensão Live Server para VSCode permite criar um servidor local através do VSCode. Com ele cortamos a necessidade de sempre que fizermos uma alteração no código atualizar o navegador.)
+* Bootstrap 5
 
 ## ✍🏻Autores
 | [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
