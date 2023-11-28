@@ -5,7 +5,10 @@ Nesse projeto, criamos uma tela de login na matéria de:
 * Fundamentos de Desenvolvimento Web.
 
 ## 📋 Sobre o projeto
-Projeto criado para termos uma tela de login e utilizaremos no 2° Ano do EM em prol de construirmos um site, utilizando o form-CadEcommerce.
+Projeto criado para termos uma tela de login e utilizaremos no 2° Ano do EM em prol de construirmos um site, utilizando o form-CadEcommerce. 
+
+## Descrição do projeto
+Esse conjunto de atividades se baseia em fazermos uma pesquisa sobre sites de Ecommerce diferentes e criarmos o nosso próprio site. Na primeira parte, criamos uma tarefa para a tela de Formulário de Cadastro. Após isso, criamos essa atividade que consiste em ser a Tela de Login.
 
 ## 🔨Técnicas e Tecnologias utilizadas
 * Visual Studio Code 
